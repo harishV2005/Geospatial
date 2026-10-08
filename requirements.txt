@@ -1,0 +1,9 @@
+Django>=4.2,<5.0
+djangorestframework>=3.14
+pyshp>=2.3
+fiona>=1.9
+shapely>=2.0
+pyproj>=3.6
+lxml>=4.9
+drf-spectacular>=0.27
+python-decouple>=3.8
